@@ -1,0 +1,86 @@
+# /model/.ipynb_checkpoints
+
+# /client/node_modules
+
+
+# # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# # dependencies
+# /model/node_modules
+# /model/.pnp
+# /model/.pnp.js
+# /model/.yarn/install-state.gz
+
+# # testing
+# /model/coverage
+
+# # next.js
+# /client/.next/
+# /model/out/
+
+# # production
+# /model/build
+
+# # misc
+# /model/.DS_Store
+# /model/*.pem
+
+# # debug
+# /model/npm-debug.log*
+# /model/yarn-debug.log*
+# /model/yarn-error.log*
+
+# # local env files
+# /model/.env*.local
+
+# # vercel
+# /model/.vercel
+
+# # typescript
+# /model/*.tsbuildinfo
+# /model/next-env.d.ts
+
+# /server/__pycache__
+
+
+# CLIENT SIDE
+/client/node_modules
+/client/.pnp
+/client/.pnp.js
+/client/.yarn/install-state.gz
+
+# testing
+/client/coverage
+
+# next.js
+/client/.next/
+/client/out/
+
+# production
+/client/build
+
+# misc
+/client/.DS_Store
+/client/*.pem
+
+# debug
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+
+# local env files
+/client/.env*.local
+
+# vercel
+/client/.vercel
+
+# typescript
+/client/*.tsbuildinfo
+/client/next-env.d.ts
+
+# MODEL SIDE
+/model/.ipynb_checkpoints
+
+# SERVER SIDE
+/server/__pycache__
+/server/new.py
