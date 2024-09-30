@@ -54,3 +54,6 @@ pnpm-lock.yaml # if using pnpm
 # next-auth
 .nextauth.token.json
 .nextauth.session.json
+
+# python
+flask_server/__pycache__
