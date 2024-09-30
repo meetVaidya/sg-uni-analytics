@@ -29,13 +29,13 @@ const Navbar = () => {
                                 GitHub
                             </Button> */}
                             <Link href="/">
-                                <Button variant="outline">GitHub</Button>
+                                <Button>GitHub</Button>
                             </Link>
                             <Link href="/about">
-                                <Button variant="outline">About</Button>
+                                <Button>About</Button>
                             </Link>
                             <Link href="/contact">
-                                <Button variant="outline">Contact Me</Button>
+                                <Button>Contact Me</Button>
                             </Link>
                             <div className="">
                                 <ModeToggle />
