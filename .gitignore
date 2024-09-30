@@ -55,5 +55,5 @@ pnpm-lock.yaml # if using pnpm
 .nextauth.token.json
 .nextauth.session.json
 
-# python
-flask_server/__pycache__
+# python 
+flask_server/__pycache__ 
